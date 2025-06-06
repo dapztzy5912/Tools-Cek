@@ -13,7 +13,7 @@ Tools CLI all-in-one untuk Termux:
 ## ðŸš€ Cara Install & Jalankan
 ```bash
 git clone https://github.com/dapztzy5912/Tools-Cek.git
-cd Tools-cek
+cd Tools-Cek
 bash install.sh
 ```
 
