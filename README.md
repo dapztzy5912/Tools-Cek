@@ -12,11 +12,11 @@ Tools CLI all-in-one untuk Termux:
 
 ## ðŸš€ Cara Install & Jalankan
 ```bash
-git clone https://github.com/XdpzQ/nama-repo-kamu
-cd nama-repo-kamu
+git clone https://github.com/dapztzy5912/Tools-Cek.git
+cd Tools-cek
 bash install.sh
 ```
 
 ## ðŸ“„ Author
 - Nama: XdpzQ
-- Asal: SURABAYA
+- status: Wa😂
